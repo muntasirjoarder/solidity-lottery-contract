@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/muntasirjoarder/solidity-lottery-contract/issues"
   },
-  "homepage": "https://github.com/muntasirjoarder/solidity-lottery-contract#readme"
+  "homepage": "https://github.com/muntasirjoarder/solidity-lottery-contract#readme",
+  "dependencies": {
+    "ganache-cli": "^6.1.8",
+    "mocha": "^5.2.0",
+    "solc": "^0.4.24",
+    "web3": "^1.0.0-beta.26"
+  }
 }
