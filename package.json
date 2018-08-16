@@ -1,0 +1,19 @@
+{
+  "name": "solidity-lottery-contract",
+  "version": "1.0.0",
+  "description": "Basic lottery smart contract built on Solidity and Ethereum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muntasirjoarder/solidity-lottery-contract.git"
+  },
+  "author": "Muntasir Joarder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muntasirjoarder/solidity-lottery-contract/issues"
+  },
+  "homepage": "https://github.com/muntasirjoarder/solidity-lottery-contract#readme"
+}
